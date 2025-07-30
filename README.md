@@ -42,7 +42,7 @@ To bridge my computer vision skills with robotics, I am focusing on the followin
 
 I'm always open to discussing new projects, research, or opportunities in the robotics space.
 
-- **Email**: [feint225@gmail.com](feint225@gmail.com)
+- **Email**: [feint225@gmail.com](mailto:feint225@gmail.com)
 - **Portfolio/Blog**: [https://yonghaklee.github.io/](https://yonghaklee.github.io/)
 
 Thank you for visiting my profile!
