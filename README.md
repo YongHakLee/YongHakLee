@@ -18,4 +18,4 @@
 
 [![YongHakLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongHakLee&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongHakLee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongHakLee&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
