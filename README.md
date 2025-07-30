@@ -1,21 +1,52 @@
-<h1 align="center">Hi 👋, I'm YongHakLee</h1>
-<h3 align="center">I want to be an expert in computer vision and robot</h3>
+# Hi, I'm YongHakLee. 👋
 
-- 🔭 I’m currently working on **Computer Vision and 3D Data Analysis**
+I am a Computer Vision Engineer specializing in 3D perception and data processing. With a strong background in analyzing complex visual data, including images and LiDAR point clouds, I am passionate about building the "eyes" for intelligent systems.
 
-- 🌱 I’m currently learning **Computer Vision, 3D Data, Robotics**
+My goal is to leverage my expertise in perception to contribute to the field of robotics, developing robust and autonomous machines that can intelligently interact with the physical world. I am actively seeking opportunities to apply my skills to challenges in robotic navigation, manipulation, and interaction.
 
-- 📫 How to reach me **feint225@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am lazy**
+### 🔭 My Core Competencies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+My experience lies at the intersection of computer vision, deep learning, and 3D data analysis.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+#### Computer Vision & Deep Learning
+- **Object Detection & Tracking**: YOLO
+- **Semantic & Instance Segmentation**: U-Net, Mask R-CNN, DeepLab, ViT(to be)
+- **Frameworks**: PyTorch
+- **Libraries**: OpenCV, Scikit-learn, NumPy, ...
 
-[![YongHakLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongHakLee&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+#### 3D Data Processing
+- **LiDAR**: Point Cloud Registration, Feature Extraction
+- **Sensor Fusion**: Calibrating and fusing data from Cameras and LiDAR
+- **Libraries**: PCL (Point Cloud Library), Open3D, ROS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongHakLee&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+#### Programming & Tools
+- **Languages**: Python, C++(to be)
+- **DevOps & Tools**: Git, Docker, Linux, Bash Scripting
+
+---
+
+### 🌱 I'm currently learning and working on...
+
+To bridge my computer vision skills with robotics, I am focusing on the following areas:
+
+- **Robot Operating System (ROS/ROS2)**: Building nodes for perception tasks and understanding the publisher/subscriber architecture.
+- **Simultaneous Localization and Mapping (SLAM)**: Implementing and experimenting with algorithms like ORB-SLAM and LIO-SAM.
+- **Motion Planning & Control**: Studying pathfinding algorithms (A*, RRT) and basic control theory for robot manipulators.
+- **Robotics Simulation**: Gaining hands-on experience with simulators like **Gazebo** and **NVIDIA Isaac Sim**.
+
+---
+
+### 💬 Let's Connect
+
+I'm always open to discussing new projects, research, or opportunities in the robotics space.
+
+- **Email**: [feint225@gmail.com](feint225@gmail.com)
+- **Portfolio/Blog**: [https://yonghaklee.github.io/](https://yonghaklee.github.io/)
+
+Thank you for visiting my profile!
+
+[![YongHakLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongHakLee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YongHakLee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
