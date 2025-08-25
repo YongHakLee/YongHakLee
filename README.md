@@ -47,6 +47,6 @@ I'm always open to discussing new projects, research, or opportunities in the ro
 
 Thank you for visiting my profile!
 
-[![YongHakLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongHakLee&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![YongHakLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongHakLee&show_icons=true&hide_rank=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YongHakLee&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
