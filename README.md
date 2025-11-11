@@ -33,6 +33,8 @@ Thank you for visiting my profile!
 
 ### 📊 My GitHub Stats
 
+![Alt](https://repobeats.axiom.co/api/embed/668d6805d924b1006320b6bc791b9b9b9cce6b85.svg "Repobeats analytics image")
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YongHakLee&show_icons=true&hide_rank=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongHakLee&layout=compact&langs_count=8&theme=dracula"/>
