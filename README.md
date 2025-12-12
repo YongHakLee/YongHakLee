@@ -25,7 +25,8 @@ This lightweight and accessible approach eliminates the need for expensive, spec
 -   Transformer-based models for vision tasks (e.g., Vision Transformers, DETR).
 -   LLM, VLM.
 -   **Email**: [feint225@gmail.com](mailto:feint225@gmail.com)
--   **Portfolio/Blog**: [https://yonghaklee.github.io/](https://yonghaklee.github.io/)
+-   **Portfolio**: [Portfolio-static]https://yonghaklee.github.io/portfolio-static/
+-   **Blog**: [https://yonghaklee.github.io/](https://yonghaklee.github.io/)
 
 Thank you for visiting my profile!
 
